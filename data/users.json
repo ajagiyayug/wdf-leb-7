@@ -1,0 +1,24 @@
+[
+    {
+        "id": "STU1790742206",
+        "fullName": "yug",
+        "email": "ajagiyayug2@gmail.com",
+        "mobile": "9924298865",
+        "gender": "Male",
+        "course": "B.Tech",
+        "year": "2nd Year",
+        "passwordHash": "$2y$10$cVhP1CvXZdD..MD4bsugpuzg9pLUZKG11MEPao1gVDuOxFXkm6Ava",
+        "submittedAt": "2026-09-30 06:23:27"
+    },
+    {
+        "id": "STU1790783787",
+        "fullName": "Yug Ajagiya",
+        "email": "ajagiyayug2@gmail.com",
+        "mobile": "9924298865",
+        "gender": "Male",
+        "course": "B.Tech",
+        "year": "2nd Year",
+        "passwordHash": "$2y$10$JAEyNVVTfieVSyrvzVGlmOfG5uJ1.wX9Vhbre4sWUMSruboz5sDJi",
+        "submittedAt": "2026-09-30 17:56:27"
+    }
+]
